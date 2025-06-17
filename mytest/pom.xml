@@ -80,7 +80,7 @@
 		<jdk.version>1.7</jdk.version>
 		<maven-compiler-plugin.version>3.1</maven-compiler-plugin.version>
 		<javaee.api.version>7.0</javaee.api.version>
-		<com.fasterxml.jackson.core>2.12.7.1</com.fasterxml.jackson.core>
+		<com.fasterxml.jackson.core>2.13.0</com.fasterxml.jackson.core>
 	</properties>
 	<!-- ================================================================ -->
 	<!-- Build -->
